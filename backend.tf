@@ -16,6 +16,7 @@ terraform {
 }
 
 
+
 provider "google" {
     project = "devops-tp2-399708"
 }
