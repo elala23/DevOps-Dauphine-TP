@@ -9,7 +9,7 @@ Pour la réalisation de ce TP, vous utiliserez Cloud Shell et GitHub comme pour 
 Vous utiliserez ce repo : https://github.com/aballiet/DevOps-Dauphine-TP comme base. Créez un "fork" / une copie de ce repo sur **VOTRE** compte GitHub (afin de pouvoir faire des commits)
 
 ## 2. Cloner VOTRE copie du repo
-
+OKK
 Clonez le avec `git clone` depuis Cloud Shell et tentez un commit pour vérifier que tout fonctionne !
 
 ## 3. Créer la base de données MySQL sur votre projet GCP
